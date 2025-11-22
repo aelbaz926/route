@@ -1,2 +1,0 @@
-hello, from file 3 line 1 
-hello, from file 3 line 2 
