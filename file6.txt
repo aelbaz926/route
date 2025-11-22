@@ -1,0 +1,2 @@
+hello, from file 6 line 1 
+hello, from file 6 line 2
